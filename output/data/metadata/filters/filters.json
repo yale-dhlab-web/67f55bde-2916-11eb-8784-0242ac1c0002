@@ -1,0 +1,13 @@
+[
+    {
+        "filter_name": "select",
+        "filter_values": [
+            "Arbeiderbevegelsens__arkiv__og__bibliotek",
+            "Oslo__byarkiv",
+            "DEXTRA__Photo",
+            "Norsk__Folkemuseum",
+            "Norsk__Teknisk__Museum",
+            "Oslo__Museum"
+        ]
+    }
+]

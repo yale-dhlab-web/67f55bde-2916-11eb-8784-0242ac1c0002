@@ -1,0 +1,36 @@
+{
+    "positions": [
+        [
+            -0.98901,
+            -1.0
+        ],
+        [
+            -0.98901,
+            0.13043
+        ],
+        [
+            0.15385,
+            -1.0
+        ],
+        [
+            -0.06593,
+            0.13043
+        ],
+        [
+            0.7033,
+            -1.0
+        ],
+        [
+            0.28571,
+            0.13043
+        ]
+    ],
+    "labels": [
+        "Oslo byarkiv",
+        "Norsk Folkemuseum",
+        "Norsk Teknisk Museum",
+        "Oslo Museum",
+        "Arbeiderbevegelsens arkiv og bibliotek",
+        "DEXTRA Photo"
+    ]
+}
